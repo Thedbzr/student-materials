@@ -2,21 +2,21 @@
 
 ## Executive Summary
 
-*Our Client ActionLabs has asked us to plan a project to develop a native gaming app. This gaming app will be a first-person-shooter(fps) with the title of Operation RNDR(short for Render). This app will allow players to render their live location and use it as an in game rendered map. Not only with capabilities to render their live locations using gps locating but also add to the maps via in-game map content creator and editor.This Document will explain the scope,deliver schedule,personal requierments to meet deadlines of the project, as well as the functional requirments needed to satisfy the client needs.
+Our Client ActionLabs has asked us to plan a project to develop a native gaming app. This gaming app will be a first-person-shooter(fps) with the title of Operation RNDR(short for Render). This app will allow players to render their live location and use it as an in game rendered map. Not only with capabilities to render their live locations using gps locating but also add to the maps via in-game map content creator and editor.This Document will explain the scope,deliver schedule,personal requierments to meet deadlines of the project, as well as the functional requirments needed to satisfy the client needs.
 
 ## Business Objectives
 
-*This project is of extreme importance. It will be the first of its kind. A gps based, vitrual rendering first-person-shooter.
+This project is of extreme importance. It will be the first of its kind. A gps based, vitrual rendering first-person-shooter.
 This will usher in the next level of immersive gameplay in the fps genre.Not only will it connect players around the world via the internet but it will create a social enviornment where players must meet up in live locations to play the game.
 The goal is to meet the required functionalities for the release of a beta verion that will go live for the purpouse of data collection.
 
 ## Background
 
-* The Client is initiating this project for the sole purpouse of evolving the bland and played out cookie cuter fps games that have not changed in the past decade.The want to bring something new the market that will revive the fps genre.*
+The Client is initiating this project for the sole purpouse of evolving the bland and played out cookie cuter fps games that have not changed in the past decade.The want to bring something new the market that will revive the fps genre.
 
 ## Scope
 
-*The project will start once the team has analysed the tasks needed to fullfill the required functionality , you will provide a minimal project managment documentation explaining: estimates, list of risk, a milestone chart. Based on those we will be able to agree on the final scope and final date for the project.
+The project will start once the team has analysed the tasks needed to fullfill the required functionality , you will provide a minimal project managment documentation explaining: estimates, list of risk, a milestone chart. Based on those we will be able to agree on the final scope and final date for the project.
 
 -Contraints: 
   - App should be released in time for IOS 13
@@ -28,7 +28,7 @@ The goal is to meet the required functionalities for the release of a beta verio
 
 ## Functional requirements
 
-*1.They would like players to be able to log in create unique profiles and connect with other players via audio and chat.
+1.They would like players to be able to log in create unique profiles and connect with other players via audio and chat.
 2.View a list of others ranking in leaderboard, view stats (K/D ratio,Assists,Medals,Role(ie:Sniper,Heavy Gunner,Smg Specialist,..))
 3.Also with the integration of Gps Location be able to find local players in their areas and their in-game stats.
 4.
@@ -51,13 +51,13 @@ The goal is to meet the required functionalities for the release of a beta verio
   - Sneaky Class - be able to go invisible or teleport to go behind enemy lines and pick them off from behind. Weapons: smgs/melees/trap explosives.
 
 6. Use Google Street satelite and street View in conjuction with Gps location to render the locations in game.
-7. team balancing functionality based on stats of players within the match.*
+7. team balancing functionality based on stats of players within the match.
 
 ## Personnel requirements
 
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
+In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.
 
-*Dedicated Development Teams: 
+Dedicated Development Teams: 
   - Rendering and Gps : 15people
   - Design and Art: 10 people
   - UI/UX Functions: 5people
