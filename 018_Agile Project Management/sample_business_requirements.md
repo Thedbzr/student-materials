@@ -66,8 +66,8 @@ Dedicated Development Teams:
   - UI/UX Functions: 5people
   
   
- !Required Video Game Programmer Expert in Fps and Online Multiplayer¡
-  Recommended: Jason Jons Co-Founder of Bungie and Dev for Halo.
+!Required Video Game Programmer Expert in Fps and Online Multiplayer¡
+  - Recommended: Jason Jons Co-Founder of Bungie and Dev for Halo.
 
 ## Delivery schedule
   
