@@ -29,6 +29,7 @@ The project will start once the team has analysed the tasks needed to fullfill t
 ## Functional requirements
 
 1.They would like players to be able to log in create unique profiles and connect with other players via audio and chat.
+
 2.View a list of others ranking in leaderboard, view stats (K/D ratio,Assists,Medals,Role(ie:Sniper,Heavy Gunner,Smg Specialist,..))
 
 3.Also with the integration of Gps Location be able to find local players in their areas and their in-game stats.
@@ -52,6 +53,7 @@ The project will start once the team has analysed the tasks needed to fullfill t
  - Sneaky Class - be able to go invisible or teleport to go behind enemy lines and pick them off from behind. Weapons: smgs/melees/trap explosives.
 
 5. Use Google Street satelite and street View in conjuction with Gps location to render the locations in game.
+
 6. team balancing functionality based on stats of players within the match.
 
 ## Personnel requirements
