@@ -34,21 +34,21 @@ The project will start once the team has analysed the tasks needed to fullfill t
 4.
 5.They would like a list of optional playable roles in game.
 
-  - Smg Class - Runs really fast, usually weak in terms of health/armor, weaponry is fast-firing and only good at close range. weapons: smgs
+ - Smg Class - Runs really fast, usually weak in terms of health/armor, weaponry is fast-firing and only good at close range. weapons: smgs
 
-  - Assault Class - medium of offensive and defensive power. They usually can't run the fastest in the game, but they also don't run the slowest. Their health/armor isn't the highest, but it's not the lowest. Their gun can definitely kill, but it is usually different in some way from the very light and very heavy classes. It the average class. weapon: Assault Rifles
+ - Assault Class - medium of offensive and defensive power. They usually can't run the fastest in the game, but they also don't run the slowest. Their health/armor isn't the highest, but it's not the lowest. Their gun can definitely kill, but it is usually different in some way from the very light and very heavy classes. It the average class. weapon: Assault Rifles
 
-  - Heavy, Slow Tanky Class - Runs very slow but has a lot of health very tanky, and a high-firepower gun. Difficult to take out head-on. Weapon: Heavy Machine Guns/Light Machine Guns
+ - Heavy, Slow Tanky Class - Runs very slow but has a lot of health very tanky, and a high-firepower gun. Difficult to take out head-on. Weapon: Heavy Machine Guns/Light Machine Guns
 
-  - Sniper Class - Has high-firepower, long-range weapon, but is generally weak up close. weapons: high caliber sniper rifles.
+ - Sniper Class - Has high-firepower, long-range weapon, but is generally weak up close. weapons: high caliber sniper rifles.
 
-  - Healer Class - Heals up teammates, weakness is the inability to sustain itself in combat.
+ - Healer Class - Heals up teammates, weakness is the inability to sustain itself in combat.
 
-  - Area Denial Class - This class will shoot projectiles to push people out of a areas.They will have lower weapon accuracy but high explosive damage. They will be equiped with rocket launchers,granades, and other explosives.
+ - Area Denial Class - This class will shoot projectiles to push people out of a areas.They will have lower weapon accuracy but high explosive damage. They will be equiped with rocket launchers,granades, and other explosives.
 
-  - Melee Class - have very limited use of, ranged weaponry. To balance this natural disadvantage, theyll have additional resistance to damage and be able to close distance between them and the enmey quickly..They will run with melee based weapons knifes, crossbows.
+ - Melee Class - have very limited use of, ranged weaponry. To balance this natural disadvantage, theyll have additional resistance to damage and be able to close distance between them and the enmey quickly..They will run with melee based weapons knifes, crossbows.
 
-  - Sneaky Class - be able to go invisible or teleport to go behind enemy lines and pick them off from behind. Weapons: smgs/melees/trap explosives.
+ - Sneaky Class - be able to go invisible or teleport to go behind enemy lines and pick them off from behind. Weapons: smgs/melees/trap explosives.
 
 6. Use Google Street satelite and street View in conjuction with Gps location to render the locations in game.
 7. team balancing functionality based on stats of players within the match.
